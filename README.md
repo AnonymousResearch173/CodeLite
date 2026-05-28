@@ -20,7 +20,7 @@ CodeLite/
 
 ## PLI
 
-Contains notebooks related to **Programming Language Identification (PLI)** experiments.
+Contains notebooks related to **Programming Language Identification (PLI)** experiments of our method, along with recent SOTA works.
 
 Files included:
 
@@ -33,7 +33,7 @@ Files included:
 
 ## PLAG
 
-Contains notebooks related to **source code plagiarism detection** experiments.
+Contains notebooks related to **source code plagiarism detection** experiments of our method, along with recent SOTA works.
 
 Files included:
 
@@ -46,7 +46,7 @@ Files included:
 
 ## Authorship
 
-Contains notebooks related to **source code authorship attribution** experiments.
+Contains notebooks related to **source code authorship attribution** experiments of our method, along with recent SOTA works.
 
 Files included:
 
